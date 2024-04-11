@@ -1,6 +1,6 @@
 # Wi-Fi SoftAP Example
 
-This example shows how to use the Wi-Fi SoftAP functionality of the Wi-Fi driver of ESP for serving as an Access Point.
+This example shows how to use the Wi-Fi SoftAP functionality of the Wi-Fi driver of ESP for serving as an Access Point. Here this functionality is used to control led on off.
 
 ## How to use example
 
